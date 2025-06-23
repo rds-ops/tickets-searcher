@@ -1,0 +1,7 @@
+TELEGRAM_TOKEN = '7887081635:AAFLYffPnZ_QGMmZNnqa1jnBPqxy1_IrroE'
+TRAVELPAYOUTS_API_KEY = '773c5f598a965aeea0b4c63f2d30d45a'
+
+LANGS = [
+    'ru',
+    'uz',
+]
