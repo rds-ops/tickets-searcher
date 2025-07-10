@@ -1,0 +1,375 @@
+[]{"user_id": 1956097442, "ts": "2025-06-27T09:48:11.592153", "step": "start", "payload": {}}
+{"user_id": 1956097442, "ts": "2025-06-27T09:48:13.630390", "step": "lang", "payload": {"lang": "ru"}}
+{"user_id": 1956097442, "ts": "2025-06-27T09:48:18.715298", "step": "origin", "payload": {"origin": "TAS"}}
+{"user_id": 1956097442, "ts": "2025-06-27T09:48:31.818685", "step": "start", "payload": {}}
+{"user_id": 1956097442, "ts": "2025-06-27T09:48:36.802646", "step": "lang", "payload": {"lang": "ru"}}
+{"user_id": 1956097442, "ts": "2025-06-27T09:48:40.743770", "step": "origin", "payload": {"origin": "TAS"}}
+{"user_id": 1956097442, "ts": "2025-06-27T09:51:53.638673", "step": "start", "payload": {}}
+{"user_id": 1956097442, "ts": "2025-06-27T09:51:55.726105", "step": "lang", "payload": {"lang": "ru"}}
+{"user_id": 1956097442, "ts": "2025-06-27T09:51:59.850629", "step": "origin", "payload": {"origin": "TAS"}}
+{"user_id": 1956097442, "ts": "2025-06-27T09:52:02.498199", "step": "destination", "payload": {"destination": "MOW"}}
+{"user_id": 1956097442, "ts": "2025-06-27T10:00:39.318707", "step": "start", "payload": {}}
+{"user_id": 1956097442, "ts": "2025-06-27T10:00:40.878820", "step": "lang", "payload": {"lang": "ru"}}
+{"user_id": 1956097442, "ts": "2025-06-27T10:00:44.840537", "step": "origin", "payload": {"origin": "TAS"}}
+{"user_id": 1956097442, "ts": "2025-06-27T10:00:47.184527", "step": "destination", "payload": {"destination": "MOW"}}
+{"user_id": 1956097442, "ts": "2025-06-27T10:00:49.463384", "step": "dep_year", "payload": {"year": "2025", "return": false}}
+{"user_id": 1956097442, "ts": "2025-06-27T10:00:56.018772", "step": "dep_month", "payload": {"year": 2025, "month": 2}}
+{"user_id": 1956097442, "ts": "2025-06-27T11:14:19.524733", "step": "start", "payload": {}}
+{"user_id": 1956097442, "ts": "2025-06-27T11:14:21.463733", "step": "lang", "payload": {"lang": "ru"}}
+{"user_id": 1956097442, "ts": "2025-06-27T11:14:24.590377", "step": "origin", "payload": {"origin": "TAS"}}
+{"user_id": 1956097442, "ts": "2025-06-27T11:14:27.321783", "step": "destination", "payload": {"destination": "MOW"}}
+{"user_id": 1956097442, "ts": "2025-06-27T11:14:28.806678", "step": "dep_year", "payload": {"year": "2025", "return": false}}
+{"user_id": 1956097442, "ts": "2025-06-27T11:14:30.120640", "step": "dep_month", "payload": {"year": 2025, "month": 3}}
+{"user_id": 1956097442, "ts": "2025-06-29T07:12:56.735516", "step": "start", "payload": {}}
+{"user_id": 1956097442, "ts": "2025-06-29T07:12:58.185008", "step": "lang", "payload": {"lang": "ru"}}
+{"user_id": 1956097442, "ts": "2025-06-29T07:13:02.436499", "step": "origin", "payload": {"origin": "TAS"}}
+{"user_id": 1956097442, "ts": "2025-06-29T07:13:03.770984", "step": "destination", "payload": {"destination": "MOW"}}
+{"user_id": 1956097442, "ts": "2025-06-29T07:13:05.448937", "step": "dep_year", "payload": {"year": "2025", "return": false}}
+{"user_id": 1956097442, "ts": "2025-06-29T07:14:55.055940", "step": "dep_month", "payload": {"year": 2025, "month": 3}}
+{"user_id": 1956097442, "ts": "2025-06-29T08:34:44.385877", "step": "start", "payload": {}}
+{"user_id": 1956097442, "ts": "2025-06-29T08:59:19.203965", "step": "start", "payload": {}}
+{"user_id": 1956097442, "ts": "2025-06-29T09:00:01.827837", "step": "start", "payload": {}}
+{"user_id": 1956097442, "ts": "2025-06-29T09:02:09.696736", "step": "start", "payload": {}}
+{"user_id": 1956097442, "ts": "2025-06-29T09:02:11.347867", "step": "lang", "payload": {"lang": "ru"}}
+{"user_id": 1956097442, "ts": "2025-06-29T09:02:19.297654", "step": "origin", "payload": {"origin": "TAS"}}
+{"user_id": 1956097442, "ts": "2025-06-29T09:02:21.596443", "step": "destination", "payload": {"destination": "MOW"}}
+{"user_id": 1956097442, "ts": "2025-06-29T09:02:22.993140", "step": "dep_year", "payload": {"year": "2025", "return": false}}
+{"user_id": 1956097442, "ts": "2025-06-29T09:02:24.611827", "step": "dep_month", "payload": {"year": 2025, "month": 2}}
+{"user_id": 1956097442, "ts": "2025-06-29T09:02:27.886909", "step": "dep_day", "payload": {"date": "2025-02-04"}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:18:49.166793", "step": "start", "payload": {}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:18:50.448755", "step": "lang", "payload": {"lang": "ru"}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:18:55.429839", "step": "origin", "payload": {"iata": "TAS"}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:18:58.113054", "step": "destination", "payload": {"iata": "MOW"}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:31:22.578296", "step": "start", "payload": {}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:31:24.245974", "step": "lang", "payload": {"lang": "ru"}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:31:27.570025", "step": "origin", "payload": {"iata": "TAS"}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:31:29.259295", "step": "destination", "payload": {"iata": "MOW"}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:31:31.946289", "step": "year", "payload": {"year": 2025, "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:31:34.290172", "step": "year", "payload": {"year": 2025, "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:31:36.797838", "step": "month", "payload": {"y": 2025, "m": 11, "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:31:41.405380", "step": "day", "payload": {"date": "2025-11-30", "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:31:44.298792", "step": "year", "payload": {"year": 2025, "ret": true}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:31:45.579163", "step": "month", "payload": {"y": 2025, "m": 5, "ret": true}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:35:10.421329", "step": "start", "payload": {}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:35:12.432804", "step": "lang", "payload": {"lang": "ru"}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:35:15.692111", "step": "origin", "payload": {"iata": "TAS"}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:35:17.276144", "step": "destination", "payload": {"iata": "MOW"}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:35:19.233106", "step": "year", "payload": {"year": 2025, "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:35:20.933519", "step": "month", "payload": {"y": 2025, "m": 12, "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:35:22.106104", "step": "day", "payload": {"date": "2025-12-25", "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:35:23.585211", "step": "year", "payload": {"year": 2025, "ret": true}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:35:25.511745", "step": "month", "payload": {"y": 2025, "m": 11, "ret": true}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:35:27.178634", "step": "day", "payload": {"date": "2025-11-25", "ret": true}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:35:31.500908", "step": "pax_change", "payload": {"adults": 2}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:35:32.798424", "step": "pax_change", "payload": {"adults": 3}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:35:33.214717", "step": "pax_change", "payload": {"adults": 4}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:35:33.827369", "step": "pax_change", "payload": {"adults": 5}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:35:34.291333", "step": "pax_change", "payload": {"adults": 6}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:35:38.030913", "step": "pax_change", "payload": {"adults": 7}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:35:39.188191", "step": "pax_change", "payload": {"adults": 8}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:35:39.880700", "step": "pax_change", "payload": {"adults": 9}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:35:40.578565", "step": "pax_change", "payload": {"adults": 10}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:35:41.498844", "step": "pax_change", "payload": {"adults": 11}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:37:43.212088", "step": "pax_change", "payload": {"children": 1}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:37:44.147089", "step": "pax_change", "payload": {"children": 2}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:37:45.624352", "step": "pax_change", "payload": {"children": 3}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:37:47.073289", "step": "pax_change", "payload": {"children": 2}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:37:47.672410", "step": "pax_change", "payload": {"children": 1}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:37:48.636750", "step": "pax_change", "payload": {"children": 0}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:41:46.402213", "step": "start", "payload": {}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:41:47.772216", "step": "lang", "payload": {"lang": "ru"}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:41:51.072856", "step": "origin", "payload": {"iata": "TAS"}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:41:54.729829", "step": "destination", "payload": {"iata": "MOW"}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:41:56.839831", "step": "year", "payload": {"year": 2025, "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:41:58.411883", "step": "month", "payload": {"y": 2025, "m": 8, "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:42:01.123569", "step": "day", "payload": {"date": "2025-08-30", "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:42:05.401056", "step": "year", "payload": {"year": 2025, "ret": true}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:42:09.874318", "step": "month", "payload": {"y": 2025, "m": 12, "ret": true}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:42:11.861575", "step": "day", "payload": {"date": "2025-12-01", "ret": true}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:45:38.865164", "step": "start", "payload": {}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:45:40.241146", "step": "lang", "payload": {"lang": "ru"}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:45:47.223130", "step": "origin", "payload": {"iata": "TAS"}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:45:48.889090", "step": "destination", "payload": {"iata": "MOW"}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:45:51.075798", "step": "year", "payload": {"year": 2025, "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:45:52.922428", "step": "month", "payload": {"y": 2025, "m": 6, "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:45:55.142195", "step": "day", "payload": {"date": "2025-06-18", "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:45:56.511661", "step": "year", "payload": {"year": 2025, "ret": true}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:45:58.166095", "step": "month", "payload": {"y": 2025, "m": 8, "ret": true}}
+{"user_id": 1956097442, "ts": "2025-06-29T13:45:59.329966", "step": "day", "payload": {"date": "2025-08-24", "ret": true}}
+{"user_id": 1956097442, "ts": "2025-06-29T14:07:29.041715", "step": "start", "payload": {}}
+{"user_id": 1956097442, "ts": "2025-06-29T14:07:30.377614", "step": "lang", "payload": {"lang": "ru"}}
+{"user_id": 1956097442, "ts": "2025-06-29T14:07:33.320191", "step": "origin", "payload": {"iata": "TAS"}}
+{"user_id": 1956097442, "ts": "2025-06-29T14:11:49.695328", "step": "destination", "payload": {"iata": "MOW"}}
+{"user_id": 1956097442, "ts": "2025-06-29T14:11:51.995210", "step": "year", "payload": {"year": 2025, "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-29T14:11:55.368683", "step": "month", "payload": {"y": 2025, "m": 8, "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-29T14:11:56.900623", "step": "day", "payload": {"date": "2025-08-23", "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-29T14:11:58.085422", "step": "year", "payload": {"year": 2025, "ret": true}}
+{"user_id": 1956097442, "ts": "2025-06-29T14:11:59.646429", "step": "month", "payload": {"y": 2025, "m": 9, "ret": true}}
+{"user_id": 1956097442, "ts": "2025-06-29T14:12:00.786371", "step": "day", "payload": {"date": "2025-09-17", "ret": true}}
+{"user_id": 1956097442, "ts": "2025-06-29T14:12:14.551176", "step": "link_sent", "payload": {"url": "https://aviasales.uz/search/TAS2308MOW17092?adults=2&children=1&infants=1&language=ru"}}
+{"user_id": 5131603490, "ts": "2025-06-29T14:13:25.854574", "step": "start", "payload": {}}
+{"user_id": 5131603490, "ts": "2025-06-29T14:13:28.236433", "step": "lang", "payload": {"lang": "ru"}}
+{"user_id": 5131603490, "ts": "2025-06-29T14:13:42.063783", "step": "origin", "payload": {"iata": "TOF"}}
+{"user_id": 5131603490, "ts": "2025-06-29T14:13:47.791036", "step": "destination", "payload": {"iata": "TOF"}}
+{"user_id": 5131603490, "ts": "2025-06-29T14:14:36.602747", "step": "start", "payload": {}}
+{"user_id": 5131603490, "ts": "2025-06-29T14:14:38.258921", "step": "lang", "payload": {"lang": "ru"}}
+{"user_id": 5131603490, "ts": "2025-06-29T14:14:40.561144", "step": "origin", "payload": {"iata": "TOF"}}
+{"user_id": 5131603490, "ts": "2025-06-29T14:14:43.310981", "step": "destination", "payload": {"iata": "MOW"}}
+{"user_id": 5131603490, "ts": "2025-06-29T14:14:49.059145", "step": "year", "payload": {"year": 2025, "ret": false}}
+{"user_id": 5131603490, "ts": "2025-06-29T14:14:57.184239", "step": "month", "payload": {"y": 2025, "m": 12, "ret": false}}
+{"user_id": 5131603490, "ts": "2025-06-29T14:15:00.687631", "step": "day", "payload": {"date": "2025-12-31", "ret": false}}
+{"user_id": 5131603490, "ts": "2025-06-29T14:15:03.995066", "step": "year", "payload": {"year": 2026, "ret": true}}
+{"user_id": 5131603490, "ts": "2025-06-29T14:15:06.606443", "step": "month", "payload": {"y": 2026, "m": 1, "ret": true}}
+{"user_id": 5131603490, "ts": "2025-06-29T14:15:08.580602", "step": "day", "payload": {"date": "2026-01-09", "ret": true}}
+{"user_id": 5131603490, "ts": "2025-06-29T14:15:45.073007", "step": "link_sent", "payload": {"url": "https://aviasales.uz/search/TOF3112MOW09012?adults=2&children=2&infants=1&language=ru"}}
+{"user_id": 5131603490, "ts": "2025-06-29T14:16:37.658404", "step": "start", "payload": {}}
+{"user_id": 5131603490, "ts": "2025-06-29T14:16:39.175889", "step": "lang", "payload": {"lang": "ru"}}
+{"user_id": 5131603490, "ts": "2025-06-29T14:16:43.382050", "step": "origin", "payload": {"iata": "MOW"}}
+{"user_id": 5131603490, "ts": "2025-06-29T14:16:45.035814", "step": "destination", "payload": {"iata": "TOF"}}
+{"user_id": 5131603490, "ts": "2025-06-29T14:16:48.942258", "step": "year", "payload": {"year": 2025, "ret": false}}
+{"user_id": 5131603490, "ts": "2025-06-29T14:16:50.677287", "step": "month", "payload": {"y": 2025, "m": 12, "ret": false}}
+{"user_id": 5131603490, "ts": "2025-06-29T14:16:54.214339", "step": "day", "payload": {"date": "2025-12-26", "ret": false}}
+{"user_id": 5131603490, "ts": "2025-06-29T14:16:57.723802", "step": "year", "payload": {"year": 2025, "ret": true}}
+{"user_id": 5131603490, "ts": "2025-06-29T14:16:59.881171", "step": "month", "payload": {"y": 2025, "m": 12, "ret": true}}
+{"user_id": 5131603490, "ts": "2025-06-29T14:17:01.229689", "step": "day", "payload": {"date": "2025-12-09", "ret": true}}
+{"user_id": 5131603490, "ts": "2025-06-29T14:17:10.470855", "step": "link_sent", "payload": {"url": "https://aviasales.uz/search/MOW2612TOF09121?adults=1&children=0&infants=0&language=ru"}}
+{"user_id": 1956097442, "ts": "2025-06-29T15:53:14.094992", "step": "start", "payload": {}}
+{"user_id": 1956097442, "ts": "2025-06-29T15:53:15.674762", "step": "lang", "payload": {"lang": "ru"}}
+{"user_id": 1956097442, "ts": "2025-06-29T15:53:19.758046", "step": "origin", "payload": {"iata": "TAS"}}
+{"user_id": 1956097442, "ts": "2025-06-29T15:53:21.169360", "step": "destination", "payload": {"iata": "MOW"}}
+{"user_id": 1956097442, "ts": "2025-06-29T15:53:22.813256", "step": "year", "payload": {"y": 2025, "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-29T15:53:25.636773", "step": "month", "payload": {"y": 2025, "m": 6, "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-29T15:53:40.402206", "step": "month", "payload": {"y": 2025, "m": 6, "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-29T15:53:43.372182", "step": "month", "payload": {"y": 2025, "m": 7, "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-29T15:53:45.527089", "step": "month", "payload": {"y": 2025, "m": 6, "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-29T15:53:47.866048", "step": "day", "payload": {"date": "2025-06-30", "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-29T15:53:49.194404", "step": "year", "payload": {"y": 2025, "ret": true}}
+{"user_id": 1956097442, "ts": "2025-06-29T15:53:59.819387", "step": "year", "payload": {"y": 2026, "ret": true}}
+{"user_id": 1956097442, "ts": "2025-06-29T15:54:05.647175", "step": "year", "payload": {"y": 2025, "ret": true}}
+{"user_id": 1956097442, "ts": "2025-06-29T15:54:09.438905", "step": "month", "payload": {"y": 2025, "m": 7, "ret": true}}
+{"user_id": 1956097442, "ts": "2025-06-29T15:54:10.301168", "step": "day", "payload": {"date": "2025-07-18", "ret": true}}
+{"user_id": 1956097442, "ts": "2025-06-29T15:54:15.800226", "step": "link_sent", "payload": {"url": "https://aviasales.uz/search/TAS3006MOW18073?adults=3&children=0&infants=0&language=ru"}}
+{"user_id": 1956097442, "ts": "2025-06-29T15:55:31.219655", "step": "start", "payload": {}}
+{"user_id": 1956097442, "ts": "2025-06-29T15:55:32.456598", "step": "lang", "payload": {"lang": "ru"}}
+{"user_id": 1956097442, "ts": "2025-06-29T15:55:35.011958", "step": "origin", "payload": {"iata": "TAS"}}
+{"user_id": 1956097442, "ts": "2025-06-29T15:55:36.462814", "step": "destination", "payload": {"iata": "MOW"}}
+{"user_id": 1956097442, "ts": "2025-06-29T15:55:37.687878", "step": "year", "payload": {"y": 2025, "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-29T15:55:38.805271", "step": "month", "payload": {"y": 2025, "m": 7, "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-29T15:55:39.824447", "step": "day", "payload": {"date": "2025-07-16", "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-29T15:55:40.998814", "step": "year", "payload": {"y": 2025, "ret": true}}
+{"user_id": 1956097442, "ts": "2025-06-29T15:55:42.429635", "step": "month", "payload": {"y": 2025, "m": 7, "ret": true}}
+{"user_id": 1956097442, "ts": "2025-06-29T15:55:43.559956", "step": "day", "payload": {"date": "2025-07-18", "ret": true}}
+{"user_id": 1956097442, "ts": "2025-06-29T16:01:28.561988", "step": "start", "payload": {}}
+{"user_id": 1956097442, "ts": "2025-06-29T16:01:29.979590", "step": "lang", "payload": {"lang": "uz"}}
+{"user_id": 1956097442, "ts": "2025-06-29T16:01:35.131363", "step": "origin", "payload": {"iata": "TAS"}}
+{"user_id": 1956097442, "ts": "2025-06-29T16:01:39.407602", "step": "destination", "payload": {"iata": "FEG"}}
+{"user_id": 1956097442, "ts": "2025-06-29T16:01:43.419723", "step": "year", "payload": {"y": 2025, "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-29T16:01:44.530113", "step": "month", "payload": {"y": 2025, "m": 7, "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-29T16:01:45.450476", "step": "day", "payload": {"date": "2025-07-03", "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-29T16:01:48.026043", "step": "no_ret", "payload": {}}
+{"user_id": 1956097442, "ts": "2025-06-29T16:01:54.223186", "step": "link_sent", "payload": {"url": "https://aviasales.uz/search/TAS0307FEG2?adults=2&children=0&infants=0&language=uz"}}
+{"user_id": 1956097442, "ts": "2025-06-29T16:19:19.399155", "step": "start", "payload": {}}
+{"user_id": 1956097442, "ts": "2025-06-29T16:19:20.839759", "step": "lang", "payload": {"lang": "ru"}}
+{"user_id": 1956097442, "ts": "2025-06-29T16:19:24.045093", "step": "origin", "payload": {"iata": "TAS"}}
+{"user_id": 1956097442, "ts": "2025-06-29T16:19:32.559186", "step": "destination", "payload": {"iata": "SKD"}}
+{"user_id": 1956097442, "ts": "2025-06-29T16:19:34.090028", "step": "year", "payload": {"y": 2025, "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-29T16:19:35.536294", "step": "month", "payload": {"y": 2025, "m": 7, "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-29T16:19:36.578529", "step": "day", "payload": {"date": "2025-07-03", "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-29T16:19:38.399335", "step": "year", "payload": {"y": 2025, "ret": true}}
+{"user_id": 1956097442, "ts": "2025-06-29T16:20:11.155641", "step": "month", "payload": {"y": 2025, "m": 7, "ret": true}}
+{"user_id": 1956097442, "ts": "2025-06-29T16:20:12.782605", "step": "day", "payload": {"date": "2025-07-03", "ret": true}}
+{"user_id": 1956097442, "ts": "2025-06-29T16:20:48.492821", "step": "link_sent", "payload": {"url": "https://aviasales.uz/search/TAS0307SKD03071?adults=1&children=0&infants=0&language=ru"}}
+{"user_id": 1956097442, "ts": "2025-06-29T16:26:31.951214", "step": "start", "payload": {}}
+{"user_id": 1956097442, "ts": "2025-06-29T16:26:33.657096", "step": "lang", "payload": {"lang": "ru"}}
+{"user_id": 1956097442, "ts": "2025-06-29T16:26:38.263676", "step": "origin", "payload": {"iata": "KUF"}}
+{"user_id": 1956097442, "ts": "2025-06-29T16:26:44.494813", "step": "destination", "payload": {"iata": "MOW"}}
+{"user_id": 1956097442, "ts": "2025-06-29T16:26:46.223108", "step": "year", "payload": {"y": 2025, "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-29T16:26:49.675716", "step": "month", "payload": {"y": 2025, "m": 7, "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-29T16:26:54.457194", "step": "day", "payload": {"date": "2025-07-31", "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-29T16:27:02.975348", "step": "year", "payload": {"y": 2025, "ret": true}}
+{"user_id": 1956097442, "ts": "2025-06-29T16:27:11.023598", "step": "month", "payload": {"y": 2025, "m": 7, "ret": true}}
+{"user_id": 1956097442, "ts": "2025-06-29T16:27:20.007609", "step": "no_ret", "payload": {}}
+{"user_id": 1956097442, "ts": "2025-06-29T16:27:39.348614", "step": "start", "payload": {}}
+{"user_id": 1956097442, "ts": "2025-06-29T16:27:41.950409", "step": "lang", "payload": {"lang": "ru"}}
+{"user_id": 1956097442, "ts": "2025-06-29T16:27:49.146214", "step": "origin", "payload": {"iata": "TAS"}}
+{"user_id": 1956097442, "ts": "2025-06-29T16:27:50.878493", "step": "destination", "payload": {"iata": "UGC"}}
+{"user_id": 1956097442, "ts": "2025-06-29T16:27:52.706364", "step": "year", "payload": {"y": 2025, "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-29T16:27:54.592662", "step": "month", "payload": {"y": 2025, "m": 7, "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-29T16:27:57.759729", "step": "month", "payload": {"y": 2025, "m": 8, "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-29T16:27:59.140757", "step": "day", "payload": {"date": "2025-08-17", "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-29T16:28:02.281625", "step": "year", "payload": {"y": 2025, "ret": true}}
+{"user_id": 1956097442, "ts": "2025-06-29T16:28:04.197432", "step": "month", "payload": {"y": 2025, "m": 8, "ret": true}}
+{"user_id": 1956097442, "ts": "2025-06-29T16:28:07.484277", "step": "day", "payload": {"date": "2025-08-31", "ret": true}}
+{"user_id": 1956097442, "ts": "2025-06-29T17:01:49.534233", "step": "start", "payload": {}}
+{"user_id": 1956097442, "ts": "2025-06-29T17:01:51.036105", "step": "lang", "payload": {"lang": "ru"}}
+{"user_id": 1956097442, "ts": "2025-06-29T17:01:55.465774", "step": "origin", "payload": {"iata": "TAS"}}
+{"user_id": 1956097442, "ts": "2025-06-29T17:01:57.224097", "step": "destination", "payload": {"iata": "MOW"}}
+{"user_id": 1956097442, "ts": "2025-06-29T17:01:58.452223", "step": "year", "payload": {"y": 2025, "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-29T17:02:00.006647", "step": "month", "payload": {"y": 2025, "m": 10, "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-29T17:02:00.803378", "step": "day", "payload": {"date": "2025-10-24", "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-29T17:02:05.750264", "step": "year", "payload": {"y": 2025, "ret": true}}
+{"user_id": 1956097442, "ts": "2025-06-29T17:02:07.908618", "step": "month", "payload": {"y": 2025, "m": 11, "ret": true}}
+{"user_id": 1956097442, "ts": "2025-06-29T17:02:08.883431", "step": "day", "payload": {"date": "2025-11-17", "ret": true}}
+{"user_id": 1956097442, "ts": "2025-06-29T17:02:32.367416", "step": "link_sent", "payload": {"url": "https://aviasales.uz/search/TAS2410MOW17113?adults=3&children=0&infants=0&language=ru"}}
+{"user_id": 1956097442, "ts": "2025-06-30T05:31:57.543715", "step": "start", "payload": {}}
+{"user_id": 1956097442, "ts": "2025-06-30T05:31:59.122964", "step": "lang", "payload": {"lang": "uz"}}
+{"user_id": 1956097442, "ts": "2025-06-30T05:32:04.295803", "step": "origin", "payload": {"iata": "TAS"}}
+{"user_id": 1956097442, "ts": "2025-06-30T05:32:11.475147", "step": "destination", "payload": {"iata": "CIT"}}
+{"user_id": 1956097442, "ts": "2025-06-30T05:32:13.414420", "step": "year", "payload": {"y": 2025, "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-30T05:32:14.729423", "step": "month", "payload": {"y": 2025, "m": 7, "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-30T05:32:16.071792", "step": "day", "payload": {"date": "2025-07-17", "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-30T05:32:17.671022", "step": "year", "payload": {"y": 2025, "ret": true}}
+{"user_id": 1956097442, "ts": "2025-06-30T05:32:19.689783", "step": "month", "payload": {"y": 2025, "m": 8, "ret": true}}
+{"user_id": 1956097442, "ts": "2025-06-30T05:32:20.918317", "step": "day", "payload": {"date": "2025-08-11", "ret": true}}
+{"user_id": 1956097442, "ts": "2025-06-30T05:51:28.413205", "step": "link_sent", "payload": {"url": "https://aviasales.uz/search/TAS1707CIT11083?adults=3&children=0&infants=0&language=uz"}}
+{"user_id": 1956097442, "ts": "2025-06-30T09:15:06.550905", "step": "start", "payload": {}}
+{"user_id": 1956097442, "ts": "2025-06-30T09:15:07.809192", "step": "lang", "payload": {"lang": "ru"}}
+{"user_id": 1956097442, "ts": "2025-06-30T09:15:10.530228", "step": "origin", "payload": {"iata": "TAS"}}
+{"user_id": 1956097442, "ts": "2025-06-30T09:15:12.978731", "step": "destination", "payload": {"iata": "MOW"}}
+{"user_id": 1956097442, "ts": "2025-06-30T09:15:14.832958", "step": "year", "payload": {"y": 2025, "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-30T09:15:16.149475", "step": "month", "payload": {"y": 2025, "m": 7, "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-30T09:15:17.014644", "step": "day", "payload": {"date": "2025-07-17", "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-30T09:15:18.344646", "step": "year", "payload": {"y": 2025, "ret": true}}
+{"user_id": 1956097442, "ts": "2025-06-30T09:15:21.900462", "step": "month", "payload": {"y": 2025, "m": 7, "ret": true}}
+{"user_id": 1956097442, "ts": "2025-06-30T09:15:27.631025", "step": "day", "payload": {"date": "2025-07-19", "ret": true}}
+{"user_id": 7887081635, "ts": "2025-06-30T09:16:58.298753", "step": "start", "payload": {}}
+{"user_id": 1956097442, "ts": "2025-06-30T09:17:01.761986", "step": "lang", "payload": {"lang": "ru"}}
+{"user_id": 1956097442, "ts": "2025-06-30T09:25:20.938204", "step": "start", "payload": {}}
+{"user_id": 1956097442, "ts": "2025-06-30T09:25:21.921322", "step": "lang", "payload": {"lang": "ru"}}
+{"user_id": 1956097442, "ts": "2025-06-30T09:25:24.500462", "step": "origin", "payload": {"iata": "MOW"}}
+{"user_id": 1956097442, "ts": "2025-06-30T09:25:26.300992", "step": "destination", "payload": {"iata": "TAS"}}
+{"user_id": 1956097442, "ts": "2025-06-30T09:25:28.329431", "step": "year", "payload": {"y": 2025, "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-30T09:25:29.574103", "step": "month", "payload": {"y": 2025, "m": 9, "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-30T09:25:30.404246", "step": "day", "payload": {"date": "2025-09-15", "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-30T09:25:31.483933", "step": "year", "payload": {"y": 2025, "ret": true}}
+{"user_id": 1956097442, "ts": "2025-06-30T09:25:32.815081", "step": "month", "payload": {"y": 2025, "m": 10, "ret": true}}
+{"user_id": 1956097442, "ts": "2025-06-30T09:25:33.806248", "step": "day", "payload": {"date": "2025-10-09", "ret": true}}
+{"user_id": 7887081635, "ts": "2025-06-30T09:30:29.584291", "step": "start", "payload": {}}
+{"user_id": 1956097442, "ts": "2025-06-30T10:08:43.262090", "step": "start", "payload": {}}
+{"user_id": 1956097442, "ts": "2025-06-30T10:08:44.190602", "step": "lang", "payload": {"lang": "ru"}}
+{"user_id": 1956097442, "ts": "2025-06-30T10:08:46.877450", "step": "origin", "payload": {"iata": "TAS"}}
+{"user_id": 1956097442, "ts": "2025-06-30T10:08:48.331264", "step": "destination", "payload": {"iata": "MOW"}}
+{"user_id": 1956097442, "ts": "2025-06-30T10:08:49.670216", "step": "year", "payload": {"y": 2025, "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-30T10:08:50.545372", "step": "month", "payload": {"y": 2025, "m": 7, "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-30T10:08:51.239835", "step": "day", "payload": {"date": "2025-07-17", "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-30T10:08:52.275054", "step": "year", "payload": {"y": 2025, "ret": true}}
+{"user_id": 1956097442, "ts": "2025-06-30T10:08:53.530748", "step": "month", "payload": {"y": 2025, "m": 8, "ret": true}}
+{"user_id": 1956097442, "ts": "2025-06-30T10:08:57.463208", "step": "day", "payload": {"date": "2025-08-24", "ret": true}}
+{"user_id": 1956097442, "ts": "2025-06-30T10:17:37.951448", "step": "start", "payload": {}}
+{"user_id": 1956097442, "ts": "2025-06-30T10:17:39.946836", "step": "lang", "payload": {"lang": "ru"}}
+{"user_id": 1956097442, "ts": "2025-06-30T10:17:43.097656", "step": "origin", "payload": {"iata": "TAS"}}
+{"user_id": 1956097442, "ts": "2025-06-30T10:17:44.441232", "step": "destination", "payload": {"iata": "MOW"}}
+{"user_id": 1956097442, "ts": "2025-06-30T10:17:45.443226", "step": "year", "payload": {"y": 2025, "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-30T10:17:47.679417", "step": "month", "payload": {"y": 2025, "m": 7, "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-30T10:17:48.784308", "step": "day", "payload": {"date": "2025-07-03", "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-30T10:17:49.777219", "step": "year", "payload": {"y": 2025, "ret": true}}
+{"user_id": 1956097442, "ts": "2025-06-30T10:17:55.576377", "step": "month", "payload": {"y": 2025, "m": 7, "ret": true}}
+{"user_id": 1956097442, "ts": "2025-06-30T10:17:57.827480", "step": "day", "payload": {"date": "2025-07-05", "ret": true}}
+{"user_id": 1956097442, "ts": "2025-06-30T10:20:30.020357", "step": "start", "payload": {}}
+{"user_id": 1956097442, "ts": "2025-06-30T10:20:33.089748", "step": "lang", "payload": {"lang": "ru"}}
+{"user_id": 1956097442, "ts": "2025-06-30T10:20:34.909352", "step": "origin", "payload": {"iata": "TAS"}}
+{"user_id": 1956097442, "ts": "2025-06-30T10:20:36.297967", "step": "destination", "payload": {"iata": "MOW"}}
+{"user_id": 1956097442, "ts": "2025-06-30T10:20:37.093083", "step": "year", "payload": {"y": 2025, "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-30T10:20:38.324488", "step": "month", "payload": {"y": 2025, "m": 10, "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-30T10:20:39.261760", "step": "day", "payload": {"date": "2025-10-24", "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-30T10:20:40.254062", "step": "year", "payload": {"y": 2025, "ret": true}}
+{"user_id": 1956097442, "ts": "2025-06-30T10:20:41.452544", "step": "month", "payload": {"y": 2025, "m": 10, "ret": true}}
+{"user_id": 1956097442, "ts": "2025-06-30T10:20:42.648206", "step": "day", "payload": {"date": "2025-10-26", "ret": true}}
+{"user_id": 1956097442, "ts": "2025-06-30T10:27:57.526625", "step": "start", "payload": {}}
+{"user_id": 1956097442, "ts": "2025-06-30T10:27:58.886918", "step": "lang", "payload": {"lang": "ru"}}
+{"user_id": 1956097442, "ts": "2025-06-30T10:28:01.578100", "step": "origin", "payload": {"iata": "TAS"}}
+{"user_id": 1956097442, "ts": "2025-06-30T10:28:03.069258", "step": "destination", "payload": {"iata": "MOW"}}
+{"user_id": 1956097442, "ts": "2025-06-30T10:28:04.984175", "step": "year", "payload": {"y": 2025, "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-30T10:28:07.143488", "step": "month", "payload": {"y": 2025, "m": 7, "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-30T10:28:10.227562", "step": "day", "payload": {"date": "2025-07-30", "ret": false}}
+{"user_id": 1956097442, "ts": "2025-06-30T10:28:12.394105", "step": "year", "payload": {"y": 2025, "ret": true}}
+{"user_id": 1956097442, "ts": "2025-06-30T10:28:13.832129", "step": "month", "payload": {"y": 2025, "m": 7, "ret": true}}
+{"user_id": 1956097442, "ts": "2025-06-30T10:28:15.725372", "step": "day", "payload": {"date": "2025-07-31", "ret": true}}
+{"user_id": 1956097442, "ts": "2025-06-30T10:28:19.399350", "step": "link_sent", "payload": {"url": "https://aviasales.uz/search/TAS3007MOW31071?adults=1&children=0&infants=0&language=ru"}}
+{"user_id": 7887081635, "ts": "2025-06-30T11:47:36.265379", "step": "start", "payload": {}}
+{"user_id": 5131603490, "ts": "2025-06-30T14:41:23.009183", "step": "start", "payload": {}}
+{"user_id": 5131603490, "ts": "2025-06-30T14:41:25.035195", "step": "lang", "payload": {"lang": "ru"}}
+{"user_id": 5131603490, "ts": "2025-06-30T14:41:34.452628", "step": "origin", "payload": {"iata": "OVB"}}
+{"user_id": 5131603490, "ts": "2025-06-30T14:41:37.772860", "step": "destination", "payload": {"iata": "TOF"}}
+{"user_id": 5131603490, "ts": "2025-06-30T14:41:41.941434", "step": "year", "payload": {"y": 2025, "ret": false}}
+{"user_id": 5131603490, "ts": "2025-06-30T14:41:49.233783", "step": "month", "payload": {"y": 2025, "m": 11, "ret": false}}
+{"user_id": 5131603490, "ts": "2025-06-30T14:41:51.298842", "step": "day", "payload": {"date": "2025-11-18", "ret": false}}
+{"user_id": 5131603490, "ts": "2025-06-30T14:41:53.618606", "step": "year", "payload": {"y": 2025, "ret": true}}
+{"user_id": 5131603490, "ts": "2025-06-30T14:41:57.260887", "step": "month", "payload": {"y": 2025, "m": 11, "ret": true}}
+{"user_id": 5131603490, "ts": "2025-06-30T14:42:01.347411", "step": "day", "payload": {"date": "2025-11-30", "ret": true}}
+{"user_id": 5131603490, "ts": "2025-06-30T14:42:25.643195", "step": "link_sent", "payload": {"url": "https://aviasales.uz/search/OVB1811TOF30113?adults=3&children=1&infants=1&language=ru"}}
+{"user_id": 1956097442, "ts": "2025-07-01T09:37:50.921035", "step": "start", "payload": {}}
+{"user_id": 1956097442, "ts": "2025-07-01T09:37:52.419389", "step": "lang", "payload": {"lang": "ru"}}
+{"user_id": 1956097442, "ts": "2025-07-01T09:37:55.072519", "step": "origin", "payload": {"iata": "TAS"}}
+{"user_id": 1956097442, "ts": "2025-07-01T09:37:59.961597", "step": "destination", "payload": {"iata": "MOW"}}
+{"user_id": 1956097442, "ts": "2025-07-01T09:38:02.132554", "step": "year", "payload": {"y": 2025, "ret": false}}
+{"user_id": 1956097442, "ts": "2025-07-01T09:38:04.246385", "step": "month", "payload": {"y": 2025, "m": 7, "ret": false}}
+{"user_id": 1956097442, "ts": "2025-07-01T09:38:05.427464", "step": "day", "payload": {"date": "2025-07-03", "ret": false}}
+{"user_id": 1956097442, "ts": "2025-07-01T09:38:06.726974", "step": "year", "payload": {"y": 2025, "ret": true}}
+{"user_id": 1956097442, "ts": "2025-07-01T09:38:07.852846", "step": "month", "payload": {"y": 2025, "m": 7, "ret": true}}
+{"user_id": 1956097442, "ts": "2025-07-01T09:38:10.752342", "step": "no_ret", "payload": {}}
+{"user_id": 1956097442, "ts": "2025-07-01T09:38:21.894032", "step": "link_sent", "payload": {"url": "https://aviasales.uz/search/TAS0307MOW2?adults=2&children=0&infants=0&language=ru"}}
+{"user_id": 6171452853, "ts": "2025-07-01T09:46:34.612964", "step": "start", "payload": {}}
+{"user_id": 6171452853, "ts": "2025-07-01T09:46:36.520829", "step": "lang", "payload": {"lang": "ru"}}
+{"user_id": 6171452853, "ts": "2025-07-01T09:46:41.102769", "step": "origin", "payload": {"iata": "TAS"}}
+{"user_id": 6171452853, "ts": "2025-07-01T09:46:43.981409", "step": "destination", "payload": {"iata": "BHK"}}
+{"user_id": 6171452853, "ts": "2025-07-01T09:46:48.642003", "step": "year", "payload": {"y": 2025, "ret": false}}
+{"user_id": 6171452853, "ts": "2025-07-01T09:46:55.431524", "step": "month", "payload": {"y": 2025, "m": 8, "ret": false}}
+{"user_id": 6171452853, "ts": "2025-07-01T09:46:56.892012", "step": "day", "payload": {"date": "2025-08-17", "ret": false}}
+{"user_id": 6171452853, "ts": "2025-07-01T09:47:00.170460", "step": "no_ret", "payload": {}}
+{"user_id": 6171452853, "ts": "2025-07-01T09:47:08.898590", "step": "link_sent", "payload": {"url": "https://aviasales.uz/search/TAS1708BHK1?adults=1&children=0&infants=0&language=ru"}}
+{"user_id": 565215, "ts": "2025-07-01T10:40:15.477771", "step": "start", "payload": {}}
+{"user_id": 565215, "ts": "2025-07-01T10:40:18.603519", "step": "lang", "payload": {"lang": "ru"}}
+{"user_id": 565215, "ts": "2025-07-01T10:40:24.604467", "step": "origin", "payload": {"iata": "OSS"}}
+{"user_id": 565215, "ts": "2025-07-01T10:40:27.954001", "step": "destination", "payload": {"iata": "SKD"}}
+{"user_id": 565215, "ts": "2025-07-01T10:40:29.737462", "step": "year", "payload": {"y": 2025, "ret": false}}
+{"user_id": 565215, "ts": "2025-07-01T10:40:32.482602", "step": "month", "payload": {"y": 2025, "m": 8, "ret": false}}
+{"user_id": 565215, "ts": "2025-07-01T10:40:33.882944", "step": "day", "payload": {"date": "2025-08-02", "ret": false}}
+{"user_id": 565215, "ts": "2025-07-01T10:40:36.028536", "step": "no_ret", "payload": {}}
+{"user_id": 565215, "ts": "2025-07-01T10:40:43.253776", "step": "link_sent", "payload": {"url": "https://aviasales.uz/search/OSS0208SKD1?adults=1&children=0&infants=0&language=ru"}}
+{"user_id": 81349278, "ts": "2025-07-01T10:40:50.713303", "step": "start", "payload": {}}
+{"user_id": 81349278, "ts": "2025-07-01T10:40:52.796861", "step": "lang", "payload": {"lang": "ru"}}
+{"user_id": 1956097442, "ts": "2025-07-01T10:40:56.798903", "step": "start", "payload": {}}
+{"user_id": 1956097442, "ts": "2025-07-01T10:40:59.678187", "step": "lang", "payload": {"lang": "ru"}}
+{"user_id": 81349278, "ts": "2025-07-01T10:41:04.225414", "step": "origin", "payload": {"iata": "KUF"}}
+{"user_id": 1956097442, "ts": "2025-07-01T10:41:07.715701", "step": "origin", "payload": {"iata": "TAS"}}
+{"user_id": 81349278, "ts": "2025-07-01T10:41:10.175671", "step": "destination", "payload": {"iata": "MOW"}}
+{"user_id": 1956097442, "ts": "2025-07-01T10:41:12.409158", "step": "destination", "payload": {"iata": "KUF"}}
+{"user_id": 81349278, "ts": "2025-07-01T10:41:13.650694", "step": "year", "payload": {"y": 2025, "ret": false}}
+{"user_id": 1956097442, "ts": "2025-07-01T10:41:14.760351", "step": "year", "payload": {"y": 2025, "ret": false}}
+{"user_id": 81349278, "ts": "2025-07-01T10:41:19.530432", "step": "month", "payload": {"y": 2025, "m": 11, "ret": false}}
+{"user_id": 81349278, "ts": "2025-07-01T10:41:22.737462", "step": "day", "payload": {"date": "2025-11-18", "ret": false}}
+{"user_id": 1956097442, "ts": "2025-07-01T10:41:24.065055", "step": "month", "payload": {"y": 2025, "m": 8, "ret": false}}
+{"user_id": 1956097442, "ts": "2025-07-01T10:41:27.776828", "step": "day", "payload": {"date": "2025-08-18", "ret": false}}
+{"user_id": 81349278, "ts": "2025-07-01T10:41:28.734890", "step": "no_ret", "payload": {}}
+{"user_id": 1956097442, "ts": "2025-07-01T10:41:34.271957", "step": "year", "payload": {"y": 2025, "ret": true}}
+{"user_id": 1956097442, "ts": "2025-07-01T10:41:37.965623", "step": "month", "payload": {"y": 2025, "m": 8, "ret": true}}
+{"user_id": 81349278, "ts": "2025-07-01T10:41:41.016625", "step": "link_sent", "payload": {"url": "https://aviasales.uz/search/KUF1811MOW1?adults=1&children=0&infants=0&language=ru"}}
+{"user_id": 1956097442, "ts": "2025-07-01T10:41:41.590891", "step": "day", "payload": {"date": "2025-08-29", "ret": true}}
+{"user_id": 1956097442, "ts": "2025-07-01T10:42:34.230560", "step": "link_sent", "payload": {"url": "https://aviasales.uz/search/TAS1808KUF29083?adults=3&children=1&infants=3&language=ru"}}
+{"user_id": 7820675546, "ts": "2025-07-01T10:43:59.065954", "step": "start", "payload": {}}
+{"user_id": 565215, "ts": "2025-07-01T10:44:00.990895", "step": "lang", "payload": {"lang": "uz"}}
+{"user_id": 1956097442, "ts": "2025-07-01T10:44:03.026280", "step": "start", "payload": {}}
+{"user_id": 1956097442, "ts": "2025-07-01T10:44:04.127256", "step": "lang", "payload": {"lang": "uz"}}
+{"user_id": 1956097442, "ts": "2025-07-01T10:44:09.260987", "step": "origin", "payload": {"iata": "UGC"}}
+{"user_id": 1956097442, "ts": "2025-07-01T10:44:43.845160", "step": "destination", "payload": {"iata": "MOW"}}
+{"user_id": 1956097442, "ts": "2025-07-01T10:44:47.217621", "step": "year", "payload": {"y": 2025, "ret": false}}
+{"user_id": 1956097442, "ts": "2025-07-01T10:44:50.421813", "step": "month", "payload": {"y": 2025, "m": 9, "ret": false}}
+{"user_id": 1956097442, "ts": "2025-07-01T10:44:51.377464", "step": "day", "payload": {"date": "2025-09-10", "ret": false}}
+{"user_id": 1956097442, "ts": "2025-07-01T10:44:54.228824", "step": "no_ret", "payload": {}}
+{"user_id": 1956097442, "ts": "2025-07-01T10:45:01.947738", "step": "link_sent", "payload": {"url": "https://aviasales.uz/search/UGC1009MOW2?adults=2&children=1&infants=0&language=uz"}}
+{"user_id": 7820675546, "ts": "2025-07-01T10:58:11.773450", "step": "start", "payload": {}}
+{"user_id": 565215, "ts": "2025-07-01T10:58:13.335180", "step": "lang", "payload": {"lang": "ru"}}
+{"user_id": 565215, "ts": "2025-07-01T11:04:54.047746", "step": "no_ret", "payload": {}}
+{"user_id": 1956097442, "ts": "2025-07-09T06:36:16.448901", "step": "start", "payload": {}}
+{"user_id": 436661104, "ts": "2025-07-09T06:39:28.248547", "step": "start", "payload": {}}
+{"user_id": 436661104, "ts": "2025-07-09T06:39:29.989127", "step": "lang", "payload": {"lang": "ru"}}
+{"user_id": 436661104, "ts": "2025-07-09T06:51:43.097130", "step": "origin", "payload": {"iata": "TAS"}}
+{"user_id": 436661104, "ts": "2025-07-09T06:52:04.388634", "step": "destination", "payload": {"iata": "BKK"}}
+{"user_id": 436661104, "ts": "2025-07-09T06:52:06.565397", "step": "year", "payload": {"y": 2025, "ret": false}}
+{"user_id": 436661104, "ts": "2025-07-09T06:52:08.598253", "step": "month", "payload": {"y": 2025, "m": 12, "ret": false}}
+{"user_id": 436661104, "ts": "2025-07-09T06:52:12.078477", "step": "day", "payload": {"date": "2025-12-24", "ret": false}}
+{"user_id": 436661104, "ts": "2025-07-09T06:52:16.038473", "step": "year", "payload": {"y": 2025, "ret": true}}
+{"user_id": 436661104, "ts": "2025-07-09T06:52:17.278221", "step": "month", "payload": {"y": 2025, "m": 12, "ret": true}}
+{"user_id": 436661104, "ts": "2025-07-09T06:52:20.414318", "step": "day", "payload": {"date": "2025-12-29", "ret": true}}
+{"user_id": 436661104, "ts": "2025-07-09T06:52:33.862018", "step": "link_sent", "payload": {"url": "https://aviasales.uz/search/TAS2412BKK29121?adults=1&children=0&infants=0&language=ru"}}

@@ -45,12 +45,10 @@ def get_iata(user_input: str) -> Optional[str]:
     name = user_input.strip().lower()
     logger.info(f"[IATA] Пользователь ввёл: {name}")
 
-    # 1. Проверка в user_aliases.json
     if name in _ALIASES:
         logger.info(f"[IATA] Найден в alias: {_ALIASES[name]}")
         return _ALIASES[name]
 
-    # 2. Проверка в cities.json
     for city in _CITIES:
         if city.get("code", "").lower() == name:
             logger.info(f"[IATA] Совпадение по коду: {city['code']}")
@@ -65,7 +63,6 @@ def get_iata(user_input: str) -> Optional[str]:
             logger.info(f"[IATA] Совпадение по падежу: {city['code']}")
             return city["code"]
 
-    # 3. Расширенная проверка через транслитерацию
     translit_name = translit(name, 'ru')
     logger.info(f"[IATA] Пробую транслитерацию: {name} → {translit_name}")
 
@@ -80,7 +77,6 @@ def get_iata(user_input: str) -> Optional[str]:
             save_alias(name, code)
             return code
 
-    # 4. Fuzzy matching
     all_names = {}
     for city in _CITIES:
         names = [city.get("name", "")]
@@ -98,7 +94,6 @@ def get_iata(user_input: str) -> Optional[str]:
         save_alias(name, found)
         return found
 
-    # 5. Запрос к API
     logger.info(f"[IATA] Не найден локально, обращаюсь к API…")
     try:
         response = requests.get(AVIASALES_API_URL, headers={"X-Access-Token": AVIASALES_API_KEY})
@@ -124,3 +119,16 @@ def get_iata(user_input: str) -> Optional[str]:
 
     logger.warning(f"[IATA] Не найден: {name}")
     return None
+
+def city_by_iata(iata: str, lang: str = 'ru') -> Optional[str]:
+    """
+    Возвращает название города по IATA-коду в формате 'Город (XXX)',
+    учитывая выбранный язык (ru/uz). Если не найден, возвращает просто IATA.
+    """
+    iata = iata.upper()
+    for city in _CITIES:
+        if city.get("code") == iata:
+            if lang == 'uz':
+                return f"{city.get('name_translations', {}).get('uz', city.get('name'))} ({iata})"
+            return f"{city.get('name')} ({iata})"
+    return iata

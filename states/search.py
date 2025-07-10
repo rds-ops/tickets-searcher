@@ -9,3 +9,4 @@ class Search(StatesGroup):
     adults = State()
     children = State()
     infants = State()
+    confirm = State()  # финальное состояние для подтверждения заказа/поиска
